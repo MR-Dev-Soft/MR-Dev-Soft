@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenid@ al GitHub de MR-Dev-Soft <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg" width="100%" alt="Banner">
+  <img src="https://github.com/MR-Dev-Soft/MR-Dev-Soft/blob/main/MR-soft.jpg" width="100%" alt="Banner">
 </p>
 
 <p align="center">
