@@ -1,3 +1,4 @@
+<h1 align="center">Bienvenid@ al GitHub de MR-Dev-Soft <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg" width="100%" alt="Banner">
 </p>
@@ -7,10 +8,19 @@
 </p>
 
 <h1 align="left">🚀 About Me</h1>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 <p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
-<!--<h1 align="left">🧠 Skills</h1>-->
+## <b>🧠 Skills</b>
+- ### Trabajo en equipo
+- ### Pensamiento lógico y analítico
+- ### Responsabilidad y compromiso
+- ### Comunicación efectiva
+- ### Aprendizaje continuo
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
@@ -78,8 +88,15 @@
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-<div align="center">
+### ⚙️ &nbsp;GitHub Analytics
 
-![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MR-Dev-Soft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MR-Dev-Soft&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-</div>
+### 🤝🏻 &nbsp;Connect with Me
+
+
