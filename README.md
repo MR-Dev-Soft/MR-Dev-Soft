@@ -12,7 +12,17 @@
 
 <br><br>
 
-<p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
+<p align="justify">Soy Miguel Reyes Sanchez, Ingeniero de Software con formación en Ingeniería de Software con Inteligencia Artificial (SENATI).  
+Cuento con experiencia práctica en desarrollo backend y web, así como en la creación de APIs REST, sistemas orientados a negocio y aplicaciones cliente-servidor.
+
+He trabajado con tecnologías como Node.js, PHP, MySQL y Git, desarrollando soluciones que integran bases de datos relacionales, manejo de errores y buenas prácticas de programación. También tengo experiencia en la integración de APIs con aplicaciones móviles desarrolladas en Xamarin.Forms (C#).
+
+Me caracterizo por ser una persona responsable, orientada a resultados y con capacidad para trabajar bajo presión. Tengo una discapacidad auditiva parcial, la cual no limita mi desempeño profesional, ya que me adapto eficientemente a la comunicación escrita y al uso de herramientas colaborativas.
+</p>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b>🧠 Skills</b>
 - ### Trabajo en equipo
